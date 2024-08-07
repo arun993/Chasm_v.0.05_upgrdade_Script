@@ -33,4 +33,4 @@ curl localhost:3001
 echo "Upgrade complete. Visit https://scout.chasm.net/dashboard to verify the version."
 
 # Add the final message
-echo "Your Scout  Upgraded to v0.0.5 Successfully. Follow x.com/Arun__993 for more."
+echo "Your Scout has been Successfully Upgraded to v0.0.5 you can close the terminal. Follow x.com/Arun__993 for more."
